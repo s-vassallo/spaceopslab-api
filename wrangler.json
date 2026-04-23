@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "spaceopslab-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a9be3b82-0873-42ac-85d3-5744052dd8ec",
+			"database_name": "spaceopslab-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
